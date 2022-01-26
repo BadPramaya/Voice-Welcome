@@ -37,10 +37,6 @@ echo -e "\e[1;92m"
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■□■⊣"
 echo ""
 echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mx_pramaya_x   \e[1;91m =  \e[1;97m@x_pramaya_x"
-echo "" 
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mx_pramaya_x    \e[1;91m =  \e[1;97m@x_pramaya_x"
-echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mx_pramaya_x  \e[1;91m =  \e[1;97m@x_pramaya_x"
 echo ""
 echo ''
 date | lolcat
