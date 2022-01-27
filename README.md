@@ -2,9 +2,6 @@
   Welcome Banner In Termux
 </p>
 
-
-![unnamed (2)](https://i.pinimg.com/originals/32/9b/50/329b50a3d16e930c39414b1cd32948f7.jpg)
-
 ## Requirements
 
 1. [Termux App](https://play.google.com/store/apps/details?id=com.termux&hl=en_IN)
